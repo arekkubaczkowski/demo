@@ -7,7 +7,7 @@
     }
   },
   "my-applications": {
-    test: [
+    "test": [
   {
     "_id": "5ce652db36c8341da29bc493",
     "index": 0,
