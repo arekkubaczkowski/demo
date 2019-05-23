@@ -1,7 +1,12 @@
 
 {
-  "tabs": {
-    "relevant": "Relevant",
-    "recent": "Recent"
+  "home": {
+    "tabs": {
+      "relevant": "Relevant",
+      "recent": "Recent"
+    }
+  },
+  "my-applications": {
+    "title": "My Applications"
   }
 }
